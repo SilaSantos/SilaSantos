@@ -6,7 +6,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHdeMKUsEdHYQo79So0kbTw)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silas.ssanto?igsh=aWEwbGtwaWs0bmU5&utm_source=qr)
 
-![Silas GitHub stats](https://github-readme-stats.vercel.app/api?username=SilasSantos&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SilaSantos&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso
 
